@@ -1,0 +1,110 @@
+name	gender	dob	parents	siblings	married	children	children_number	spouse	married place	marriage type	residence	education	blood	side	living status
+ambikapathi	m		shanmugam; thavittammal	inbam; rajamani; tamilarasi; nagaraj; kesavan	yes	pavithra	1	girija	abroad	arranged	amoor	school drop	yes	dad	alive
+ammavasai	m				yes	pazhanichami; ayyanar; ayyappan; maheshwari; rajeevgandhi	5	mannamma	abroad	arranged	amoor	none	no	dad	alive
+anjalai	f				yes	mangalakshmi; kameshwaran; saradhambal; vasu; sivaraj; gowri	6	jambulingam	abroad	arranged	amoor	none	no	dad	alive
+anjayiram	f				yes			kolanji	abroad	arranged	amoor	school drop	no	dad	alive
+apparasu	m				yes	muthu; ilamadhi; balachandran	3	inbam					no	dad	alive
+appavu	m				yes	jeyakodi; jeyabal; jeyaprakash; jeyanthi; gurubal	5	unnaamalai	abroad	arranged	amoor	none	no	dad	alive
+aravalli	f				yes	visakan; gowtham	2	rajamani	abroad	arranged	chennai	school drop	no	dad	alive
+archana	f		arikrishnan; karpagam	deva; rosy	no								yes	mom	
+archana	f		rangasamy; mayavathi	kolanji; pandiyan	yes		2	mani	native	love	amoor	ug	yes	mom	alive
+arikrishnan	m		ramasamy; lingammal	sudamani; lavanya; gobalakrishnan; dhamodharan	yes	sarojini; rosy; deva	3	karpagam	abroad	arranged	sithalingamadam	ug drop	yes	mom	
+arivunidhi	m		asalan; sudamani	sathiyaseelan; pragadheeshwaran	no						tirukkoilur	pg	yes	mom	alive
+asalan	m		periyathambi; papa	unnaamalai; shanmugam	yes	sathiyaseelan; arivunidhi; pragadheeshwaran	3	sudamani	abroad	arranged	tirukkoilur	pg	yes	dad	alive
+avila	f				yes	rithish; harish; prathiksha; rithika	4	kesavan	native	love	amoor	school drop	no	dad	alive
+ayyanar	m		ammavasai; mannamma	ayyappan; pazhanichami; maheshwari; rajeevgandhi	yes			gowri	native	love	amoor	school	no	dad	alive
+ayyappan	m		ammavasai; mannamma	pazhanichami; ayyanar; maheshwari; rajeevgandhi	yes				abroad	arranged	amoor	school	no	dad	
+balachandran	m		apparasu; inbam	muthu; ilamadhi	no								no	dad	alive
+benil	m		saradhambal		no								yes	dad	alive
+bhuvaneshwari	f				yes			rajeevgandhi	abroad	arranged	amoor	school	no	dad	alive
+daniel	m		selvaraj; mangalakshmi	emmy; joyce	no								yes	dad	alive
+dayanidhi	m		kameshwaran; ambika	dinesh; vignesh	no								yes	dad	alive
+deva	m		arikrishnan; karpagam	archana; rosy	no								yes	mom	alive
+dhamodharan	m		ramasamy; lingammal	sudamani; arikrishnan; lavanya; gobalakrishnan	yes	thulasi; inba	2	sathya	abroad	arranged	tirukkoilur	ug	yes	mom	alive
+dhanush	m		vasu; parameshwari	idhayari	no								yes	dad	alive
+dharmendhiran	m		rajamani; aravalli	visakan	no								yes	dad	alive
+dhivya			gurubal; manjula										no	dad	
+dinesh	m		kameshwaran; ambika	dayanidhi; vignesh	no								yes	dad	alive
+doss			kolanji										no	dad	
+emmy	f		selvaraj; mangalakshmi	daniel; joyce	no								no	dad	alive
+girija	f				yes	pavithra	1	ambikapathi	abroad	arranged	chennai	school drop	no	dad	alive
+gobalakrishnan	m		ramasamy; lingammal	sudamani; arikrishnan; lavanya; dhamodharan	yes	sainath; sabarinath	2	suganthi	abroad	arranged	chennai	diplomo	yes	mom	alive
+goshini	f		segar; lavanya	prem	no								no	mom	alive
+gowri	f		jambulingam; anjalai	mangalakshmi; kameshwaran; saradhambal; vasu; sivaraj	yes			ayyanar	abroad	arranged	banglore	ug	yes	dad	alive
+gurubal	m		appavu; unnaamalai	jeyakodi; jeyabal; jeyaprakash; jeyanthi	yes	surya; dhivya; ranganayaki	3	manjula	abroad	love	amoor	school drop	no	dad	alive
+harish	m		kesavan; avila	rithish; rithika; prathiksha	no								yes	dad	alive
+idhayari	f		vasu; parameshwari	dhanush	no								yes	dad	alive
+ilamadhi	f		apparasu; inbam	muthu; balachandran	no								no	dad	alive
+inbam	f		shanmugam; thavittammal	rajamani; tamilarasi; nagaraj; ambikapathi; kesavan	yes	muthu; ilamadhi; balachandran	3	apparasu	native	arranged	amoor	school drop	yes	dad	alive
+jambulingam	m		periyathambi; karthi	rangasamy; mannamma	yes	mangalakshmi; kameshwaran; saradhambal; vasu; sivaraj; gowri	6	anjalai	abroad	arranged	amoor	none	yes	dad	alive
+jeyabal	m		appavu; unnaamalai	jeyakodi; jeyaprakash; jeyanthi; gurubal	yes	mugil; saisaran	2	mahalakshmi	abroad	arranged	amoor	ug	no	dad	alive
+jeyakodi	f		appavu; unnaamalai	jeyabal; jeyaprakash; jeyanthi; gurubal	yes	dharshnamoorthi	1	kannan	abroad	arranged	aringurikkai	school drop	no	dad	alive
+jeyanthi	f		appavu; unnaamalai	jeyakodi; jeyabal; jeyaprakash; gurubal	yes	revathi; kodeeswaran	2	bhagavan	abroad	love		school drop	no	dad	alive
+jeyaprakash	m		appavu; unnaamalai	jeyakodi; jeyabal; jeyanthi; gurubal	yes	none		umamaheshwari	abroad	love	chennai	school	no	dad	alive
+joyce	f		selvaraj; mangalakshmi	daniel; emmy	no								yes	dad	alive
+kameshwaran	m		jambulingam; anjalai	mangalakshmi; saradhambal; vasu; sivaraj; gowri	yes	vignesh; dinesh; dhayanithi	3	ambika	abroad	arranged	amoor	pg	yes	dad	
+karpagam	f				yes	sarojini; rosy; deva	3	arikrishnan					no	mom	alive
+karthi	f				yes	jambulingam; rangasamy; mannamma; thaili	4	periyathambi					yes	dad	alive
+kesavan	m		shanmugam; thavittammal	inbam; rajamani; tamilarasi; nagaraj; ambikapathi	yes	rithish; harish; prathiksha; rithika	4	avila; uk	native	love	amoor	school drop	yes	dad	alive
+kodeeswaran	m		bhagavan; jeyanthi	revathi	no								no	mom	alive
+kolanji	m		rangasamy; mayavathi	pandiyan; archana	yes	dass	1	anjayiram	native	arranged	amoor	school drop	yes	dad	alive
+krishna	m				no									dad	alive
+lavanya	f		ramasamy; lingammal	sudamani; arikrishnan; gobalakrishnan; dhamodharan	yes	premkumar; goshini	2	segar	abroad	arranged	kallakurichi	ug drop	yes	mom	alive
+lingammal	f			yogalingam; ramalingam; mahalingam	yes	sudamani; arikrishnan; lavanya; gobalakrishnan; dhamodharan	5	ramasamy	abroad	arranged	sithalingamadam	ug drop	yes	mom	alive
+mahalakshmi	f				yes	mugil; saisaran	2	jeyabal					no	dad	alive
+maheshwari	f		mannamma; ammavasai	ayyappan; pazhanichami; ayyanar; rajeevgandhi	yes				abroad	love	amoor	school	no	dad	alive
+mangalakshmi	f		jambulingam; anjalai	kameshwaran; saradhambal; vasu; sivaraj; gowri	yes	emmy; joyce; daniel	3	selvaraj	abroad	arranged	banglore	school drop	yes	dad	alive
+manjula	f				yes	surya; dhivya; ranganayaki	3	gurubal					no	dad	alive
+mannamma	f		periyathambi; karthi	rangasamy; jambulingam	yes	pazhanichami; ayyanar; ayyappan; maheshwari; rajeevgandhi	5	ammavasai	abroad	arranged	amoor	none	yes	dad	
+mayavathi	f				yes	kolanji; pandiyan; archana	3	rangasamy	abroad	arranged	amoor	none	no	dad	alive
+mugil	m		jeyabal; mahalakshmi		no								yes	dad	alive
+muthu	m		apparasu; inbam	ilamadhi; balachandran	no								no	dad	alive
+nagaraj	m		shanmugam; thavittammal	inbam; rajamani; tamilarasi; ambikapathi; kesavan	yes	tharun; nandhitha	2	poonguzhali	abroad	love	banglore	school drop	yes	dad	alive
+pandiyan	m		rangasamy; mayavathi	kolanji; archana	yes	riyas; rithish	2	suryaprabha	abroad	arranged	amoor	school drop	yes	dad	alive
+papa	f				yes	unnaamalai; shanmugam; asalan	3	periyathambi	abroad	arranged	amoor	ug drop	yes	dad	
+parameshwari	f				yes			vasu		love	banglore	school drop	no	dad	alive
+parameshwari	f		ammavasai; mannamma		yes								yes	dad	alive
+pavithra	f		ambikapathi; girija		no								yes	dad	alive
+pazhanichami	m		ammavasai; mannamma	ayyappan; ayyanar; maheshwari; rajeevgandhi	yes				abroad	love	amoor	pg	no	dad	alive
+periyathambi	m		kesavan		yes	unnaamalai; shanmugam; asalan; jambulingam; rangasamy; mannamma; thaili	7	papa; karthi	abroad	arranged	amoor	none	yes	dad	
+poonguzhali	f				yes	tharun; nandhitha	2	nagaraj					no	dad	alive
+prabu	m		sivaraj; suganya		no								yes	dad	alive
+pragadheeshwaran	m		asalan; sudamani	sathiyaseelan; arivunidhi	no						dindukal	pg pros	yes	mom	alive
+prathiksha	f		kesavan; avila	rithish; rithika; harish	no								yes	dad	alive
+prem	m		segar; lavanya	goshini	no								no	mom	alive
+puela	f		saradhambal		no								yes	dad	alive
+pughazendhi	m		kannan; jeyakodi		no								no	dad	alive
+rajamani	m		shanmugam; thavittammal	inbam; tamilarasi; nagaraj; ambikapathi; kesavan	yes			aravalli	abroad	arranged	chennai	school drop	yes	dad	alive
+rajeevgandhi	m		ammavasai; mannamma	ayyappan; pazhanichami; ayyanar; maheshwari	yes				abroad	arranged	amoor	school	no	dad	alive
+ramasamy	m		chinnathambi; kuppammal	gopal	yes	sudamani; arikrishnan; lavanya; gobalakrishnan; dhamodharan	5	lingammal	abroad	arranged	sithalingamadam	ug	yes	mom	alive
+ramu	m		thaili; mani		yes								yes	dad	alive
+ranganayaki	f		gurubal; manjula	surya	no								yes	dad	alive
+rangasamy	m		periyathambi; karthi	mannamma; jambulingam	yes	kolanji; pandiyan; archana		mayavathi	abroad	arranged	amoor	none	yes	dad	alive
+revathi	f		bhagavan; jeyanthi	kodeeswaran	no								yes	mom	alive
+rishith			pandiyan; suganya										no	dad	
+rithika	f		kesavan; avila	rithish; prathiksha; harish	no								yes	dad	alive
+rithish	m		kesavan; avila	prathiksha; rithika; harish	no								yes	dad	alive
+riyas	m		pandiyan; suganya		no								yes	dad	alive
+rosy	f		arikrishnan; karpagam	deva; archana	no								yes	mom	alive
+sabari	m		gobalakrishnan; suganthi	sainath	no								yes	mom	alive
+saikumar	m		jeyabal; mahalakshmi		no								yes	dad	alive
+sainath	m		gobalakrishnan; suganthi	sabari	no								yes	mom	alive
+saradhambal	f		jambulingam; anjalai	mangalakshmi; kameshwaran; vasu; sivaraj; gowri	yes	puela; benil	2	deenadayalan	abroad	arranged	banglore	school drop	yes	dad	alive
+sathiyaseelan	m		asalan; sudamani	arivunidhi; pragadheeshwaran	no						hyderabad	pg	yes	mom	alive
+segar	f				yes	premkumar; goshini	2	lavanya	abroad	arranged	kallakurichi	ug drop	no	mom	alive
+selvaraj	m				yes	emmy; joyce; daniel	3	mangalakshmi					no	dad	alive
+shanmugam	m		periyathambi; papa	unnaamalai; asalan	yes	inbam; rajamani; tamilarasi; nagaraj; ambikapathi; kesavan	6	shanmugam spouse	abroad	arranged	amoor	none	yes	dad	alive
+sivaraj	m		jambulingam; anjalai	mangalakshmi; kameshwaran; saradhambal; vasu; gowri	yes	prabhu; yashini	2	sivaraj	abroad	arranged	amoor	school drop	yes	dad	alive
+sudamani	f		ramasamy; lingammal	arikrishnan; lavanya; gobalakrishnan; dhamodharan	yes	sathiyaseelan; arivunidhi; pragadheeshwaran	3	asalan	abroad	arranged	tirukkoilur	ug drop	yes	mom	alive
+suganthi	f				yes	sainath; sabarinath	2	gobalakrishnan					no	mom	alive
+suganya								sivaraj					no	dad	
+surya	m		gurubal; manjula	ranganayaki	no								yes	dad	
+suryaprabha	f				yes			pandiyan			amoor	school drop	no	dad	alive
+tamilarasi	f		shanmugam; thavittammal	inbam; rajamani; nagaraj; ambikapathi; kesavan	yes				abroad	arranged	sithanangur	school drop	yes	dad	alive
+thavittammal	f				yes	inbam; rajamani; tamilarasi; nagaraj; ambikapathi; kesavan	6	shanmugam	abroad	arranged	amoor	school drop	no	dad	alive
+umamaheshwari	f				yes			jeyaprakash					no	dad	alive
+unnaamalai	f		periyathambi; papa	asalan; shanmugam	yes	jeyakodi; jeyabal; jeyaprakash; jeyanthi; gurubal	5	appavu	abroad	arranged	amoor	none	yes	dad	
+vasu	m		jambulingam; anjalai	mangalakshmi; kameshwaran; saradhambal; sivaraj; gowri	yes	idhayasri; dhanush	2	parameshwari	native	love	banglore	school drop	yes	dad	alive
+vignesh	m		kameshwaran; ambika	dayanidhi; dinesh	no								yes	dad	alive
+visakan	m		rajamani; aravalli	gowtham	no								yes	dad	alive
+yashini	f		sivaraj; suganya		no								yes	dad	alive
